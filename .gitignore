@@ -1,0 +1,21 @@
+# File di sistema e IDE
+.DS_Store
+.vscode/
+.idea/
+
+# Binari compilati e file oggetto
+*.hex
+*.bin
+*.elf
+*.o
+*.so
+*.out
+
+# Cartelle di build e temporanee
+build/
+dist/
+*.tmp
+
+# Credenziali e configurazioni locali
+secrets.h
+.env
